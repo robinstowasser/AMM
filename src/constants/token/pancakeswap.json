@@ -1,0 +1,42 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/weth.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Cookie",
+      "symbol": "Cookie",
+      "address": "0x614747C53CB1636b4b962E15e1D66D3214621100",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
+      "name": "Axelar Wrapped DAI",
+      "symbol": "axlDAI",
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "decimals": 18
+    }
+  ]
+}
